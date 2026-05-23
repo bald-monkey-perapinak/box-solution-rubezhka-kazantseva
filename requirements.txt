@@ -1,0 +1,8 @@
+pandas>=1.5
+numpy>=1.23
+torch>=2.0
+catboost>=1.2
+xgboost>=1.7
+scikit-learn>=1.2
+scipy>=1.10
+ultralytics>=8.0

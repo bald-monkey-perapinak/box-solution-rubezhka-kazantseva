@@ -1,0 +1,29 @@
+# Large data files — generate locally via step 1
+*.csv
+!punches.csv
+!videos.csv
+
+# Model checkpoints
+*.pt
+*.npz
+*.cbm
+*.bin
+
+# Video files
+*.mp4
+*.MOV
+*.mov
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Google Drive / Colab
+drive/
+.config/
